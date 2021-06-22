@@ -1,2 +1,2 @@
 # Wine
-Analysis to predict classes of wine
+Analysis to predict quality of wine
